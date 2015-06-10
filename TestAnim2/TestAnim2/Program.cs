@@ -13,6 +13,7 @@ namespace TestAnim2
             using (Game1 game = new Game1())
             {
                 game.Run();
+            //demo !
             }
         }
     }
