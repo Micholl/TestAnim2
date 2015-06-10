@@ -1,0 +1,7 @@
+c:\users\isen\documents\visual studio 2013\Projects\TestAnim2\TestAnim2\TestAnim2\obj\x86\Debug\TestAnim2.csprojResolveAssemblyReference.cache
+c:\users\isen\documents\visual studio 2013\Projects\TestAnim2\TestAnim2\TestAnim2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\isen\documents\visual studio 2013\Projects\TestAnim2\TestAnim2\TestAnim2\bin\x86\Debug\Content\Sprite_male_child_walk.xnb
+c:\users\isen\documents\visual studio 2013\Projects\TestAnim2\TestAnim2\TestAnim2\bin\x86\Debug\TestAnim2.exe
+c:\users\isen\documents\visual studio 2013\Projects\TestAnim2\TestAnim2\TestAnim2\bin\x86\Debug\TestAnim2.pdb
+c:\users\isen\documents\visual studio 2013\Projects\TestAnim2\TestAnim2\TestAnim2\obj\x86\Debug\TestAnim2.exe
+c:\users\isen\documents\visual studio 2013\Projects\TestAnim2\TestAnim2\TestAnim2\obj\x86\Debug\TestAnim2.pdb

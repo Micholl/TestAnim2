@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAnim2", "TestAnim2\TestAnim2\TestAnim2.csproj", "{6C35996A-F97D-476E-81CB-D7A9A1043E66}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TestAnim2Content", "TestAnim2\TestAnim2Content\TestAnim2Content.contentproj", "{65CEBF4E-D871-439D-951D-1A9D2E2DC317}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C35996A-F97D-476E-81CB-D7A9A1043E66}.Debug|x86.ActiveCfg = Debug|x86
+		{6C35996A-F97D-476E-81CB-D7A9A1043E66}.Debug|x86.Build.0 = Debug|x86
+		{6C35996A-F97D-476E-81CB-D7A9A1043E66}.Release|x86.ActiveCfg = Release|x86
+		{6C35996A-F97D-476E-81CB-D7A9A1043E66}.Release|x86.Build.0 = Release|x86
+		{65CEBF4E-D871-439D-951D-1A9D2E2DC317}.Debug|x86.ActiveCfg = Debug|x86
+		{65CEBF4E-D871-439D-951D-1A9D2E2DC317}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
